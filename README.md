@@ -17,3 +17,14 @@ Social Analysis: Analyze group chats, study group dynamics, or even analyze publ
 Whether you're curious about your own chats or want to delve into the dynamics of larger conversations, this WhatsApp Chat Analysis project provides a valuable toolkit for extracting meaningful insights.
 
 Feel free to adapt and modify this description to match the specifics of your project. The goal is to clearly explain what your project does, why someone might want to use it, and how they can get started.
+
+This tool can be useful for identifying topics discussed during a meeting, or even just getting an overview
+
+## Screenshots
+Here are some screenshots of the project in action:
+
+![Word Frequency Analysis](images/project1.jpg)
+*Word Frequency Analysis*
+
+![Activity Timelines](images/project2.jpg)
+*Activity Timelines*
